@@ -1,9 +1,9 @@
 # bariqi.github.io
 
- Bariqi's website#
+ Bariqi's website
 
 
- his is my first website.
+ This is my first website.
 
  Beberapa tags dan sintaks yang digunakan dalam membuat website tersebut
 
